@@ -22,16 +22,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+-Web Server: osTicket supports Apache or IIS web servers. 
+PHP: Requires PHP version 8.1 or higher (8.2 is recommended). 
+MySQL: Requires MySQL version 5.0 or higher. 
+Operating System: osTicket is platform-independent, so it can be installed on various operating systems. 
+Internet Access: Required for downloading files and potentially installing dependencies. 
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://https://i.imgur.com/Ucn0s7C.png
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
