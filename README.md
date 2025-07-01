@@ -42,7 +42,7 @@ File Placement: Unzip the downloaded osTicket files and place them in the approp
 <br />
 
 <p>
-<img src=https://i.imgur.com/teihGR2.png
+<img src=https://i.imgur.com/KGaQPYr.png
 </p>
 <p>
 . Web-based Installation:
