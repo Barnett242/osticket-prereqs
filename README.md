@@ -31,25 +31,32 @@ Internet Access: Required for downloading files and potentially installing depen
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://https://i.imgur.com/Ucn0s7C.png
+<img src=https://i.imgur.com/Ucn0s7C.png
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download osTicket: Obtain the latest version of osTicket from the official website. 
+Server Setup: Install and configure necessary components like a web server (e.g., Apache, Nginx), PHP with required modules, and a database server (e.g., MariaDB, MySQL). 
+Database Creation: Create a dedicated database and user for the osTicket installation. 
+File Placement: Unzip the downloaded osTicket files and place them in the appropriate web server directory (e.g., /var/www/html for Ubuntu, wwwroot for Azure Windows VM). 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/teihGR2.png
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+. Web-based Installation:
+.
+Access the osTicket installer through your web browser by navigating to the appropriate URL (e.g., https://your_server_ip/support) and follow the on-screen prompts to complete the installation and set up the Admin Panel.
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/eSuV2xc.png
+</p>
+<p>
+2. Configure File Permissions:
+.
+After successful installation, adjust the permissions of the ost-config.php file to remove write access, as shown in the image, using methods like chmod (for CLI/FTP) or through a cPanel interface.
 </p>
 <br />
